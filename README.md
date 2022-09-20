@@ -1,5 +1,7 @@
 # Visualisation of QEEG data
 This repo contains few functions to visualised pre-processed EEG data.
+
+You can also find my work on [Kaggle](https://www.kaggle.com/code/lazygene/visualising-pre-processed-eeg-data).
 ## visualising-pre-processed-eeg-data.ipynb
 Jupyter notebook, contains most of detail on how to use functions for visualisations.
 ## EEG_channels.csv
